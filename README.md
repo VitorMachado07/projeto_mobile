@@ -17,6 +17,6 @@ Configure o Firebase seguindo o link:
 
 ### Passo 3:
 Para rodar o projeto o comando no terminal:
-    `npm start`
+    `npm run android`
 
 
